@@ -3,4 +3,4 @@ project(khale_clion)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(khale_clion "Khaled c++ ex.cpp")
+add_executable(khale_clion "C++ DAY 4.cpp")
